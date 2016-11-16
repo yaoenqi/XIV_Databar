@@ -93,7 +93,7 @@ L['Change Port Option'] = "更改传送选项";
 L['Always Show Silver and Copper'] = "始终显示银币和铜币";
 L['Shorten Gold'] = "金钱缩写";
 L['Toggle Bags'] = "切换背包";
-L['Session Total'] = "Session Total";
+L['Session Total'] = "汇总";
 
 L['Show XP Bar Below Max Level'] = "未满级时显示经验条";
 L['Use Class Colors for XP Bar'] = "经验条使用职业颜色";
@@ -122,5 +122,5 @@ L['Current Specialization'] = "当前专精";
 L['Current Loot Specialization'] = "当前拾取专精";
 L['Talent Minimum Width'] = "天赋最小宽度";
 L['Remaining'] = "剩余";
-L['Available Ranks'] = "Available Ranks";
+L['Available Ranks'] = "神器等级";
 L['Artifact Knowledge'] = "神器知识";
