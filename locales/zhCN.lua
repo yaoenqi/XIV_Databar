@@ -74,8 +74,8 @@ L['Show Shop Button'] = "显示商城按钮";
 L['Show Help Button'] = "显示帮助按钮";
 
 L['Always Show Item Level'] = "始终显示物品等级";
-L['Minimum Durability to Become Active'] = "最低耐久度变得活跃";
-L['Maximum Durability to Show Item Level'] = "最大耐久度显示物品等级";
+L['Minimum Durability to Become Active'] = "当损失到多少耐久度时变得活跃";
+L['Maximum Durability to Show Item Level'] = "当达到多少耐久度时显示物品等级";
 
 L['Master Volume'] = "主音量";
 L["Volume step"] = "音量调节";
